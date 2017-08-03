@@ -1,0 +1,26 @@
+body{
+	position: relative;
+	left: auto;
+	right: auto;
+}
+
+div{
+	text-align: center;
+	margin: 20px;
+	padding: 5px;
+	font-family: 'Lucida Grande';
+	vertical-align: middle;
+}
+
+input{
+	text-align: center !important;
+}
+
+.backdrop{
+	background-color: rgba(52, 152, 219, 0.5);
+	border-radius: 15px; 
+}
+
+button{
+	margin: 20px;
+}
